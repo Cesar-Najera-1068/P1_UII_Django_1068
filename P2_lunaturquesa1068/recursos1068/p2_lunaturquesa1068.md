@@ -1,0 +1,14 @@
+- Crear aplicacion najeraclase_app
+- Comando --> python manage.py startapp najeraclase_app
+- Creamos el archvio urls.py en najeraclase_app
+- ![alt text](image.png)
+- En setting.py crear najeraclase_app en lunaturquesa1068
+- ![alt text](image-2.png)
+- En urls.py de p2_lunaturquesa1068 
+- ![alt text](image-3.png)
+-  En urls.py de najeraclase_app
+- ![alt text](image-4.png)
+- En views.py en najeraclase_app
+- ![alt text](image-5.png)
+- En urls.py en najeraclase_app
+- ![alt text](image-6.png)
